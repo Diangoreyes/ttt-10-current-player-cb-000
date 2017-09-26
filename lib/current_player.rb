@@ -3,6 +3,6 @@ def turn_count(board)
    return "It is #{turn} turn to go!"
 end
 
-current_player(turn_count)
-
-end
+# current_player(turn_count)
+#
+# end
